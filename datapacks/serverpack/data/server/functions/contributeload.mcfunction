@@ -1,0 +1,2 @@
+scoreboard objectives remove givenBook
+scoreboard objectives add givenBook dummy
